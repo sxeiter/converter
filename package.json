@@ -10,5 +10,8 @@
   "description": "",
   "dependencies": {
     "inquirer": "^12.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10"
   }
 }
